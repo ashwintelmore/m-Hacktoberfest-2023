@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-> **|| Drop Your Name In this Formate |5|**
+> **|| Drop Your Name In this Formate ||**
 >#### Name : Vallenain
 > - Place : Lyon, France
 > - Bio : Software engineer. Graduated from INSA Lyon.
