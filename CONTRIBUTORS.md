@@ -31,3 +31,9 @@
  - Bio : Pre-final Year Student
  - GitHub : [Sujeet Singh Tomar](https://github.com/sujeettomar60615)
  - Linkedin : (https://www.linkedin.com/in/sujeet-singh-tomar-live-to-learn/)
+
+ #### Name : Mayank Sharma 
+ - Place : Gurugram, India
+ - Bio : BCA student 
+ - GitHub : [Mayank Sharma](https://github.com/mayanksharma-1)
+ -  - Linkedin : (http://linkedin.com/in/thisismayanksharma)
