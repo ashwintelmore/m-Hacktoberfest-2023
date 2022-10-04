@@ -5,7 +5,9 @@
 [read more](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 # Solution
-> class Queue {
+> 
+```bash
+ class Queue {
 public:
     stack<int> s;
     // Push element x to the back of queue.
@@ -37,6 +39,7 @@ public:
         return (s.size()==0);
     }
 };
+```
 
 # Explaination
 > You can implement queue using just one stack by either making push process costlier or pop costlier. Since we have two functions (top() and pop()) which require the top element of the stack, well make the push() function costlier - that is, for pushing a new element, we recursively pop the stack till it is empty and push it at the bottom of the stack, and take advantage of the recursive call to push back in the popped elements once the recursive call hits the base condition and returns. This implementation makes pop() and peek() functions easier. pop() is just going to pop off the top element in stack and peek() will return the top most element.
