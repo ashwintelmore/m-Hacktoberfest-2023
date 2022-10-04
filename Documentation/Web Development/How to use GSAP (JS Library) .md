@@ -52,19 +52,3 @@ example:-
 ```
 
 After this you are good to go to use GSAP in your js flie.
-
-
-
-## 🚀 About Me
-I'm a passionate full stack developer and I'm currently working on my backend skills. You can visit my github profile to check my projects out.
-
-
-## 🔗 Links
-[Github](https://github.com/xx-abhijeet-xx)
-
-[linkedin](https://www.linkedin.com/in/abhijeet-verma-the-dragon-sin-of-wrath/)
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
-
