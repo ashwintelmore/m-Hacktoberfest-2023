@@ -1,7 +1,6 @@
 ## Description
 
 - Problem stament:- How to use GSAP (JS Library) 
-- Issue No. :- #45
 
 ## Domain
 - Web Development
