@@ -7,7 +7,7 @@
 - [] PIL
 - [] Tensorflow
 - [] Pandas
-- [] Numpy
+- [X] Numpy
 - [] keras
 - [] seaborn
 - [] matplotlib
