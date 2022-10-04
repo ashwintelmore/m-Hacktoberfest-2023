@@ -1,5 +1,5 @@
 ## Question
-> WAP To Print the Nth Even Number ?
+> Wap to implement Linked List ?
 
 ## Solution
 
