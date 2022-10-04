@@ -37,3 +37,9 @@
  - Bio : Pre-final Year Student
  - GitHub : [Bens Samuel](https://github.com/latedeveloper08)
  - Linkedin : (https://www.linkedin.com/in/bens-samuel-04611020b/)
+
+ #### Name : Mayank Sharma 
+ - Place : Gurugram, India
+ - Bio : BCA student 
+ - GitHub : [Mayank Sharma](https://github.com/mayanksharma-1)
+ - Linkedin : (http://linkedin.com/in/thisismayanksharma)
